@@ -1,9 +1,10 @@
-#Importing Libraries
+# Importing Libraries
 
 import pandas as pd
+
 import numpy as np
 
-#Importing data
+# Importing data
 df = pd.read_csv("Churn_analysis_project.csv")
 
 print("Dataset Loaded Successfully")
