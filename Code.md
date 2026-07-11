@@ -10,7 +10,7 @@ import numpy as np
 
 # Imported dataset
 
-``` pyhon
+``` python
 
 df = pd.read_csv("Churn_analysis_project.csv")
 
