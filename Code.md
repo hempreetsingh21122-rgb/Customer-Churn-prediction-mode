@@ -245,7 +245,7 @@ rf_model.fit(x_train,y_train)
 
 Generated predictions on the test data
 
-``` phthon
+``` python
 
 rf_pred = rf_model.predict(x_test)
 rf_prob = rf_model.predict_proba(x_test)[:,1]
